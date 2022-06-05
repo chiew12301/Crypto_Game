@@ -6,6 +6,8 @@ The game idea is to get latest of crypto currency to achieve the game mission wi
 Currently the project is still in the stage of prototyping and before production. There are way more to improve and this is been known by the developer(s).
 Please do welcome to contact me and give feedback by contacting me through the connection that I have put in my profile.
 
+Also this project is welcome anyone to join if you are interested.
+
 The current contribution member/developer(s):
 - KurumiC
 
